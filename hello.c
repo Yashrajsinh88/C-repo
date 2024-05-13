@@ -3,14 +3,14 @@ int main(){
 
 // 16-04-2024
 
-    // printf("hello");
-    // for(int i=10;i>=0;i--){
-        // printf("%d\n",2*i);
-        // if(i==4){
-        //       printf("hello inside condition\n");
-        // }
-        // printf("%d\n",i);
-    // }
+    printf("hello");
+    for(int i=10;i>=0;i--){
+        printf("%d\n",2*i);
+        if(i==4){
+              printf("hello inside condition\n");
+        }
+        printf("%d\n",i);
+    }
 
 
 int a;
